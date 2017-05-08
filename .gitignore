@@ -15,3 +15,10 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+#ignorar otros archivos innecesarios
+doc/
+*.swp
+*~
+.project
+.DS_Store
